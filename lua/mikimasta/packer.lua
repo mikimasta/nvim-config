@@ -16,8 +16,7 @@ return require('packer').startup(function(use)
 
 
     --catpuccin theme
-    -- use { "catppuccin/nvim", as = "catppuccin" }
-    use { 'sainnhe/gruvbox-material' }
+    use { "catppuccin/nvim", as = "catppuccin" }
 
     --treesitter
     use(

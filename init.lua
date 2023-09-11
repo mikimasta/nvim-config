@@ -14,4 +14,3 @@ vim.api.nvim_set_hl(0, 'conditionals', { italic = false })
 
 
 vim.o.background = "dark"
-vim.cmd.colorscheme "gruvbox-material"
